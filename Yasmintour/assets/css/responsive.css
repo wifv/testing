@@ -1,7 +1,7 @@
 @media screen and (min-width:1367px) {
     .footer-yasmin-tour {
         position: relative;
-        left: 250px;
+        left: 130px;
         top: 120px;
     }
 
@@ -24,7 +24,7 @@
 @media screen and (max-width:1366px){
     .footer-yasmin-tour {
         position: relative;
-        left: 250px;
+        left: 140px;
         top: 120px;
     }
 
@@ -80,13 +80,13 @@
 @media screen and (max-width:1200px){
     .footer-yasmin-tour {
         position: relative;
-        left: 200px;
+        left: 70px;
         top: 120px;
     }
 
     .foot-icons .footer-social-links a {
         position: relative;
-        left: 440px;
+        left: 450px;
     }
 
     .single-footer-item {
@@ -131,8 +131,8 @@
     
     .footer-yasmin-tour {
         position: relative;
-        left: 0px;
-        top: 0px;
+        left: 100px;
+        top: 100px;
     }
 
     .foot-icons .footer-social-links a {
@@ -144,6 +144,17 @@
         position: relative;
         left: 650px;
     }
+}
+
+@media screen and (min-width:992px){
+    #bad {left: 0px;}
+    #bad-pic {left: 0px; top: 0px;}
+}
+
+
+@media screen and (max-width: 806px){
+    #bad {left: 0px;}
+    #bad-pic {left: 0px; top: 0px;}
 }
 
 
